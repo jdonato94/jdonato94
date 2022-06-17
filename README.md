@@ -1,0 +1,2 @@
+- Olá, me chamo Julio, sou estudante de ciência de dados. 
+- Hello, I am Julio, a data science student.
